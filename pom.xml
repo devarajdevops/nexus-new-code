@@ -5,7 +5,7 @@
 <packaging>jar</packaging>
 <version>1.0.1-SNAPSHOT</version>
 <name>NumberGenerator</name>
-properties>
+<properties>
 <jdk.version>17</jdk.version>
 </properties>
 <build>

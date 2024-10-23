@@ -5,13 +5,6 @@
 <packaging>jar</packaging>
 <version>1.0.1-SNAPSHOT</version>
 <name>NumberGenerator</name>
-  <properties>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
-  </properties>
-<properties>
-<jdk.version>1.7</jdk.version>
-</properties>
 <build>
 <plugins>
 <plugin>
